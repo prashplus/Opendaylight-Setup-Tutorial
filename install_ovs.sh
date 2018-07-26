@@ -29,4 +29,3 @@ update-rc.d openvswitch-controller disable
 
 #Clean ovs
 rm -rf /tmp/openvswitch-2.3.3*
-
